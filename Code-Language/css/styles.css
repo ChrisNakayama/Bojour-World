@@ -1,0 +1,14 @@
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
+#drinks, #under-21 {
+  display: none;
+}
